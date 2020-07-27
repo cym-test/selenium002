@@ -4,7 +4,7 @@ import HTMLTestRunner
 #from utils.HTMLTestRunner-Python3 import HTMLTestRunner
 import os
 import io
-from gzzx3 import TestDemo
+from selenium002.gzzx3 import TestDemo
 
 def suite():
     suite_test=unittest.TestSuite()
